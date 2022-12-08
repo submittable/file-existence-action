@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: file-existence-action
+  description: :file_folder: :octocat: GitHub Action to check for file existence
+  annotations:
+    github.com/project-slug: submittable/file-existence-action
+  tags: []
+spec:
+  type: service
+  owner: unassigned
+  lifecycle: production
+  
