@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: file-existence-action
   description: ":file_folder: :octocat: GitHub Action to check for file existence"
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/file-existence-action
     
   tags: []
